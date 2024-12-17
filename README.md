@@ -8,8 +8,7 @@
 
 ## Markdown
 
-### Alerts
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+### [Alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
