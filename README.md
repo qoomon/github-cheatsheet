@@ -3,6 +3,7 @@
 ## Repository Badges
 
 ### [shields.io](https://shields.io/)
+![](https://img.shields.io/badge/any%20text-you%20like-blue)
 
 ### [Starline](https://github.com/qoomon/starline)
 [![starline](https://starlines.qoo.monster/assets/gists/5dfcdf8eec66a051ecd85625518cfd13)](https://github.com/qoomon/starline)
