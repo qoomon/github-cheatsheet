@@ -2,7 +2,7 @@
 
 ## Repository Badges
 
-### Starline - Stargazer History
+### Starline
 [![starline](https://starlines.qoo.monster/assets/gists/5dfcdf8eec66a051ecd85625518cfd13)](https://github.com/qoomon/starline)
 
 
